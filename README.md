@@ -3,7 +3,7 @@ U, 667867849, mgride3@uic.edu, Matthew, Grider
 
 video: https://www.youtube.com/watch?v=A0EwR3ZvU9w&t
 
-I used the same open source project as last hw and the source I used was pulled from my last reop here:
+I used the same open source project as last hw and the source I used was pulled from my last repo here:
 
 https://bitbucket.org/MattGrider/matthew_grider_hw1
 
@@ -12,7 +12,7 @@ My project was quite large and the build is very integrated with gradle this mad
 The one thing that I did a little diffrent was because the project has quite a large amount of test (6000+) I collected data on the collection of test in each sub file
 (i.e. one coverage for all tests in src/test/java/io.reactivex/internal and one coverage for each test from src/test/io.reactivex/observers etc.)
 
-![Image of files](https://www.dropbox.com/s/avm1t5oj632bxi0/Capture.PNG?dl=0)
+![Alt text](https://www.dropbox.com/s/avm1t5oj632bxi0/Capture.PNG?dl=0)
 
 I saved all of the jacoco html reports to a folder which I provided a replica to here:
 

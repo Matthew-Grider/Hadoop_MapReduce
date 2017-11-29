@@ -1,13 +1,13 @@
-#HW 2 for CS 442
+# HW 2 for CS 442
 U, 667867849, mgride3@uic.edu, Matthew, Grider
 
 video: https://www.youtube.com/watch?v=A0EwR3ZvU9w&t
 
 I used the same open source project as last hw and the source I used was pulled from my last repo here:
 
-https://bitbucket.org/MattGrider/matthew_grider_hw1
+https://github.com/ReactiveX/RxJava
 
-##Collect Junit data
+## Collect Junit data
 My project was quite large and the build is very integrated with gradle this made it hard to automate the individual creation of coverage files per test so instead of automating I produced the files instead by running jacoco.
 The one thing that I did a little diffrent was because the project has quite a large amount of test (6000+) I collected data on the collection of test in each sub file
 (i.e. one coverage for all tests in src/test/java/io.reactivex/internal and one coverage for each test from src/test/io.reactivex/observers etc.)
@@ -22,7 +22,7 @@ I then used the Process_Data class in my project to implment an html scraper usi
 
 https://www.dropbox.com/s/oiloouv73n6eprv/parsedinput.txt?dl=0
 
-##Wrote Mapper and Ran Locally and on EMR
+## Wrote Mapper and Ran Locally and on EMR
 The rest of these steps are better shown on my youtube video:
 
 https://www.youtube.com/watch?v=A0EwR3ZvU9w&t

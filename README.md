@@ -1,4 +1,4 @@
-# HW 2 for CS 442
+# Hadoop Map/Reduce
 U, 667867849, mgride3@uic.edu, Matthew, Grider
 
 video: https://www.youtube.com/watch?v=A0EwR3ZvU9w&t
